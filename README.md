@@ -12,7 +12,8 @@ Uma calculadora interativa desenvolvida para unir a nostalgia das clássicas cal
 
 ## 🎨 Preview do Projeto
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6d399b8-d118-49d0-8e37-4a2b222cf86f" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/019b9df0-4bbc-4bdf-afc6-bc0639880544" />
+
 
 
 ## ✨ Funcionalidades
