@@ -1,4 +1,4 @@
-# 🧮 Calculadora Pro — Retro Edition (Casio Style)
+# 🧮 Calculadora — Retro (Casio)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/abnerescorreia/Calculadora?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/abnerescorreia/Calculadora?style=for-the-badge)
