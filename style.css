@@ -43,12 +43,13 @@ i {
 
 body {
   display: flex;
-  justify-content: center;
+  flex-direction: column; /* Organiza calculadora e footer em coluna */
+  justify-content: space-between; /* Empurra o footer para o final */
   align-items: center;
-  min-height: 100vh;
+  min-height: 100vh; /* Garante que o body tenha a altura da tela */
   background-color: var(--bg-color);
-  font-family: "Segoe UI", sans-serif;
   margin: 0;
+  transition: background-color 0.4s ease;
 }
 
 #calculator {
@@ -57,8 +58,21 @@ body {
   border-radius: 20px;
   box-shadow: 10px 10px 0px rgba(0, 0, 0, 0.1);
   width: 320px;
+  margin-top: auto; /* Centraliza verticalmente junto com o footer */
+  margin-bottom: auto;
 }
 
+/* Estilização do Footer */
+footer {
+  font-size: 0.85rem;
+  color: var(--btn-op-text) !important;
+  opacity: 0.7;
+  transition: color 0.4s ease;
+}
+
+footer p {
+  margin: 0;
+}
 #display {
   height: 70px;
   font-size: 2.2rem;
