@@ -44,8 +44,6 @@ i {
 body {
   display: flex;
   flex-direction: column; /* Organiza calculadora e footer em coluna */
-  justify-content: space-between; /* Empurra o footer para o final */
-  align-items: center;
   min-height: 100vh; /* Garante que o body tenha a altura da tela */
   background-color: var(--bg-color);
   margin: 0;
