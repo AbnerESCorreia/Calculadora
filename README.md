@@ -52,3 +52,13 @@ As seguintes ferramentas foram fundamentais para a construção deste projeto:
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/abnerescorreia/Calculadora.git](https://github.com/abnerescorreia/Calculadora.git)
+
+2. Navegue até a pasta:
+   ```bash
+   cd Calculadora
+
+3. Abra o arquivo index.html no seu navegador de preferência.
+- 👤 Autor
+- Abner E. S. Correia
+- LinkedIn: https://www.linkedin.com/in/abner-c-33a983106/?skipRedirect=true
+- GitHub: @abnerescorreia
