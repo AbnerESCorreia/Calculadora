@@ -58,7 +58,8 @@ As seguintes ferramentas foram fundamentais para a construção deste projeto:
    cd Calculadora
 
 3. Abra o arquivo index.html no seu navegador de preferência.
-- 👤 Autor
+
+## 👤 Autor
 - Abner E. S. Correia
 - LinkedIn: https://www.linkedin.com/in/abner-c-33a983106/?skipRedirect=true
 - GitHub: @abnerescorreia
